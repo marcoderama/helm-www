@@ -56,7 +56,7 @@ description: A single-sentence description of this project (optional)
 type: The type of the chart (optional)
 keywords:
   - A list of keywords about this project (optional)
-home: The URL of this projects home page (optional)
+home: The URL of this project's home page (optional)
 sources:
   - A list of URLs to source code for this project (optional)
 dependencies: # A list of the chart requirements (optional)
